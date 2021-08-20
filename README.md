@@ -1,5 +1,8 @@
 # Introduction to the Julia Programming Language 
-![]('https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FJulia_(programming_language)&psig=AOvVaw0A5ClzTj5_YksyZVCdN77e&ust=1629575272228000&source=images&cd=vfe&ved=0CAgQjRxqFwoTCLid3ouvwPICFQAAAAAdAAAAABAD')
+
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Julia_Programming_Language_Logo.svg/1920px-Julia_Programming_Language_Logo.svg.png" width="200">
+
 
 ### Getting Started
 
