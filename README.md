@@ -21,4 +21,4 @@ Pkg.add("IJulia")
 
 ### Other Resources
 
-I also highly recommend watch this two-hour [YouTube](https://www.youtube.com/watch?v=4igzy3bGVkQ&ab_channel=TheJuliaProgrammingLanguage tutorial.
+I also highly recommend watch this two-hour [YouTube](https://www.youtube.com/watch?v=4igzy3bGVkQ&ab_channel=TheJuliaProgrammingLanguage) tutorial.
